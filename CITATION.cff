@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the associated UW candidate variant prioritization manuscript."
+title: "UW selected12 model-based candidate variant prioritization workflow"
+version: "0.1.0"
+date-released: "2026-06-18"
+authors:
+  - family-names: "Zhang"
+    given-names: "UW project contributors"
+license: "MIT"
+repository-code: "https://github.com/CCCU-IMU/Alpha-Genome-Evo2-analysis-of-UW"

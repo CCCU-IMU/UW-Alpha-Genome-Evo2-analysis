@@ -1,0 +1,9 @@
+name: uw_variant_prioritization
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy>=1.23
+  - pandas>=1.5
+  - matplotlib>=3.7
+  - pip

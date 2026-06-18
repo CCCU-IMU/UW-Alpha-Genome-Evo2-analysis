@@ -1,0 +1,49 @@
+# Raw or private genomic data
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.cram
+*.sam
+*.vcf
+*.vcf.gz
+*.bcf
+*.npz
+*.npy
+*.fa.gz
+*.fasta.gz
+*.fna.gz
+
+# Secrets and credentials
+*.key
+*.pem
+*.token
+*.secret
+.env
+api_key*
+*API_KEY*
+secrets/
+
+# Large or generated outputs
+data/input/*
+data/reference/*
+!data/input/.gitkeep
+!data/reference/.gitkeep
+results/
+figures/
+logs/
+tmp/
+scratch/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+*.swp

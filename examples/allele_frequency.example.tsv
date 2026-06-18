@@ -1,0 +1,13 @@
+variant_id	region	gene	chrom	pos	ref	alt	UW_AF	Angus_AF	Charolais_AF	MoOD_AF	MoSN_AF	Mongolia_AF	control_AF	UW_enriched_allele	direction_class
+chr13:63639352:A:G	ASIP	ASIP	chr13	63639352	A	G	0.0666667	0.03125	0.0833333	0.05	0.15	0.1	0.0862069	intermediate	intermediate
+chr13:63668114:A:T	ASIP	ASIP	chr13	63668114	A	T	0.214286	0	0.0833333	0.15	0.05	0.1	0.0804598	ALT	UW_enriched_ALT
+chr5:57169336:C:T	PMEL_GDF11_joint	PMEL	chr5	57169336	C	T	0.133333	0	0	0	0	0	0	ALT	UW_enriched_ALT
+chr5:57248904:T:C	PMEL_GDF11_joint	PMEL	chr5	57248904	T	C	0.166667	0	0	0	0	0	0	ALT	UW_enriched_ALT
+chr19:23226482:C:T	SMG6	SMG6	chr19	23226482	C	T	0.133333	0	0.125	0.1	0	0.05	0.0406977	intermediate	intermediate
+chr19:23265398:A:G	SMG6	SMG6	chr19	23265398	A	G	0.1	0.28125	0.0416667	0.1	0	0.05	0.0862069	intermediate	intermediate
+chr1:107029528:G:A	TRIM59	TRIM59	chr1	107029528	G	A	0.2	0.21875	0.583333	0.2	0.35	0.275	0.261628	intermediate	intermediate
+chr1:107062854:G:A	TRIM59	TRIM59	chr1	107062854	G	A	NA	NA	NA	NA	NA	NA	NA	low_confidence	low_confidence
+chr5:57518366:C:T	PMEL_GDF11_joint	GDF11	chr5	57518366	C	T	0.133333	0	0	0.2	0.15	0.175	0.117647	intermediate	intermediate
+chr5:57519403:A:G	PMEL_GDF11_joint	GDF11	chr5	57519403	A	G	0.0666667	0.09375	0.0416667	0.2	0.2	0.2	0.183908	intermediate	intermediate
+chr14:23241926:A:G	PLAG1	PLAG1	chr14	23241926	A	G	0.133333	0	0	0.1	0.3	0.2	0.133721	intermediate	intermediate
+chr14:23325171:A:C	PLAG1	PLAG1	chr14	23325171	A	C	0.0333333	0	0	0.75	0.55	0.65	0.362069	intermediate	intermediate

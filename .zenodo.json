@@ -1,0 +1,18 @@
+{
+  "title": "UW selected12 model-based candidate variant prioritization workflow",
+  "upload_type": "software",
+  "description": "Minimal public code package for reproducing the table-level UW selected12 candidate regulatory variant prioritization workflow using selection priority, Evo2, AlphaGenome prediction summaries, allele direction, LD follow-up and motif gain/loss evidence.",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "UW project contributors"
+    }
+  ],
+  "keywords": [
+    "Ujimqin White cattle",
+    "candidate variants",
+    "Evo2",
+    "AlphaGenome",
+    "regulatory variant prioritization"
+  ]
+}
